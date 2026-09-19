@@ -10,7 +10,7 @@
 
 **SkillSwap** 旨在打破知识壁垒，通过“点对点”的技能互换机制，让时间与才能双向流动。本项目是一个高保真的前端交互原型，完整跑通了从**发现需求、智能匹配、发布技能到 1V1 沟通**的核心业务闭环。
 
-👉 **在线访问链接**：[https://github.com/better030921/skill-platform/](https://gemini.google.com/app/3e1c878e6d9dcd2a)
+👉 **在线访问链接**：file:///D:/HuaweiMoveData/Users/HUAWEI/Desktop/skill-exchange/index.html
 
 ---
 
